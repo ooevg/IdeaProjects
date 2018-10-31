@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="rawConvert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rawConvert_jar</output-path>
+    <root id="archive" name="rawConvert.jar">
+      <element id="module-output" name="rawConvert" />
+    </root>
+  </artifact>
+</component>
